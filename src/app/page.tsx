@@ -16,15 +16,15 @@ export default function Home() {
       <Cuadrado color="white" />
       <Cuadrado color="black" />
       <Cuadrado color="white" />
-      
+
       <Cuadrado color="black" />
       <Cuadrado color="white" />
       <Cuadrado color="black" />
       </div>
       {/* No funciono cambiar a la page2 */}
-      {/* <Link href="/page2" className="text-blue-500 hover:underline">
+      <Link href="/page2" className="text-blue-500 hover:underline">
         page2
-      </Link> */}
+      </Link> 
     </div>
   );
 }
